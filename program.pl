@@ -1,5 +1,5 @@
 /* -*-Prolog-*- source code */
-/* $Id: program.pl,v 2.0 2012/02/29 17:03:04 boonmark Exp $ */
+/* $Id: program.pl,v 2.0 2012/02/29 17:03:04 reiaaoyama Exp $ */
 
 /* Main Database definition:  */
 /*   case(ID, PR, JunosVersion, Series, Severity). */
